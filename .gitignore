@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore Chroma databases
+dbv1/
+dbv2/
+
+# Ignore environment variables (Keep your API keys safe!)
+.env
+*.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
