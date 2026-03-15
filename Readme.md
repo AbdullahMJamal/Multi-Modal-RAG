@@ -104,11 +104,3 @@ print(final_answer)
 
 The pipeline includes utility functions (export_chunks_to_json) to export processed chunks to clean JSON formats (chunks_export.json and rag_results.json). This is highly recommended for debugging and verifying the exact HTML tables and Base64 image strings being sent to the LLM.
 
-🤝 Contributing
-
-Contributions are welcome! If you'd like to improve the multimodal extraction or add support for other vision models (like Claude 3.5 Sonnet), please open an issue or submit a pull request.
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details."# Multi-Modal-RAG" 
-"# Multi-Modal-RAG" 
